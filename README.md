@@ -13,7 +13,9 @@ Projede görebileceğiniz işlemler:
 
 ## 📜 Dataset Link
 [Data 1](https://docs.google.com/spreadsheets/d/1NCMx8QCK4qJzMhFAwMwl9dIH88fyYYvr/edit#gid=1608624003)
+
 [Data 2](https://huggingface.co/datasets/merve/turkish_instructions)
+
 Data 3 = Data 1 + Data 2
 
 ## 💬 Notebook Link
