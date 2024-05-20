@@ -1,4 +1,4 @@
-# ✍️ LLM-Instruction-NEFTUNE ✍️
+# ✍️ Instruction-SFT-NEFTUNE ✍️
 
 This repo produces about NLP Tasks (Turkish)
 
