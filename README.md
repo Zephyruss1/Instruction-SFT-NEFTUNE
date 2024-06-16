@@ -20,7 +20,7 @@ Data 3 = Data 1 + Data 2
 
 ## 💬 Notebook Link
 
-[![Open In Colab](https://colab.research.google.com/github/Zephyruss1/LLM-Instruct-on-NEFTUNE/blob/main/Instruction_FineTuning_NEFTUNE.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Zephyruss1/LLM-Instruct-on-NEFTUNE/blob/main/Instruction_FineTuning_NEFTUNE.ipynb)
 ## 📄 License
 
 [Apache License 2.0](https://github.com/Zephyruss1/LLM-Instruction-NEFTUNE/blob/main/LICENSE)
